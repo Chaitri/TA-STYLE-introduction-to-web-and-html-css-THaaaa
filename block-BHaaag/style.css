@@ -1,0 +1,18 @@
+body {
+    background-color: RGB(35, 57, 106);
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.heading {
+    color: RGB(54, 179, 110);
+}
+
+p {
+    font-size: 12px;
+}
+
+.socials {
+    color : #c32955;
+}
