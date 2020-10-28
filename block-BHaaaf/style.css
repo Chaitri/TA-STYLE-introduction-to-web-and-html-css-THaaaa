@@ -1,0 +1,13 @@
+body {
+    background-color: darksalmon;
+}
+
+.heading {
+    color: firebrick;
+    font-size: 36px;
+}
+
+#quote {
+    color: rgb(150, 0, 0);
+    font-size: 30px;
+}
