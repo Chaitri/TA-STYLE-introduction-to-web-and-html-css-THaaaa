@@ -1,0 +1,27 @@
+body {
+    background-color: RGB(35, 57, 106);
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.heading {
+    color: RGB(54, 179, 110);
+}
+
+p {
+    font-size: 12px;
+}
+
+a {
+    color : #c32955;
+}
+
+footer {
+    background-color: #11244e;
+    text-align: center;
+} 
+
